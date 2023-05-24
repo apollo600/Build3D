@@ -1,0 +1,13 @@
+kaolin
+.VSCodeCounter/
+NeuralRecon-W/
+nerf_pl/
+*.out
+*.zip
+loss.png
+output.txt
+ckpts/
+data/
+logs/
+results/
+__pycache__/
